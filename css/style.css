@@ -901,10 +901,6 @@ a:active {
 
 
 @media only screen and (max-width: 1130px) {
-    /* .container {
-        padding: 0 25px;
-    } */
-
     .header__nav-hamburger {
         display: block;
     }
@@ -1062,11 +1058,11 @@ a:active {
     .header__profile-link {
         margin-right: 0;
         justify-content: flex-end;
-        font-size: 14px;
+        font-size: 12px;
     }
 
     .header__profile-icon {
-        margin-right: 3px;
+        margin-right: 0;
         height: 12px;
         width: 21px;
         transform: translateY(-1px) scale(0.8);
